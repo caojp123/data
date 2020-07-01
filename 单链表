@@ -1,4 +1,4 @@
-# 创建节点类
+# 创建单向链表节点类
 class Node:
     def __init__(self, item):
         self.value = item
